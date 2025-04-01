@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ASSIGEMENT.c
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(337,24): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(341,24): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(435,25): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(439,25): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(480,32): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(481,32): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(492,31): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(493,31): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(497,31): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(498,31): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1095,8): warning C4013: 'isalpha' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1101,8): warning C4013: 'isdigit' undefined; assuming extern returning int
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1115,11): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1118,11): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1124,11): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1127,11): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1130,11): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\Project7\ASSIGEMENT.c(1136): warning C4716: 'grade': must return a value
+  Project7.vcxproj -> C:\Users\acer\Desktop\TARUMT\C PROGRAME\ASSIGMENT\ProjectLatest1\Project7_4\Project7\x64\Debug\ASSIGMENT C PROGRAM.exe
